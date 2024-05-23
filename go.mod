@@ -1,6 +1,6 @@
 module github.com/binance-chain/balance-dumper
 
-go 1.12
+go 54.9
 
 require (
 	github.com/binance-chain/go-sdk v1.2.2
